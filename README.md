@@ -1,4 +1,6 @@
 # elegantbook-magic-revision
+2025年-2月12日元宵节: 新版本名为 VividBook是最新版本,
+
 Elegentbook魔改版本!
 
 2019 年5 月10 日左右, 在www.latexstudio.net看见了LaTeX 排版的《热力学与统计物理导论》, 该排版作品
